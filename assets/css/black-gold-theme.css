@@ -1,0 +1,204 @@
+:root {
+  --primary-color: #FFD700; /* Golden yellow */
+  --primary-hover: #DAA520; /* Darker gold for hover states */
+  --dark-color: #000000; /* Pure black */
+  --dark-secondary: #121212; /* Slightly lighter black for contrast */
+  --dark-tertiary: #1a1a1a; /* Even lighter black for elements that need more contrast */
+  --light-color: #f8f9fa; /* Light color for text */
+}
+
+/* Base styles */
+body {
+  background-color: var(--dark-secondary);
+  color: var(--light-color);
+}
+
+/* Navigation */
+.navbar, .site-footer {
+  background-color: var(--dark-color) !important;
+}
+
+.navbar .nav-link, .footer-menu-link {
+  color: var(--light-color);
+}
+
+.navbar .nav-link.active, .navbar .nav-link:hover, .footer-menu-link:hover {
+  color: var(--primary-color) !important;
+}
+
+.navbar-brand strong span, .text-primary, h5, .semester-title span {
+  color: var(--primary-color) !important;
+}
+
+/* Headers and text */
+.text-dark, h1, h2, h3, h4, h5, h6 {
+  color: var(--light-color) !important;
+}
+
+.text-muted {
+  color: #adb5bd !important;
+}
+
+/* Sections and containers */
+.section-padding, .products, .about, .faq, .sign-in-form, .contact {
+  background-color: var(--dark-secondary);
+}
+
+.site-header {
+  background-color: var(--dark-tertiary);
+}
+
+/* Cards and content containers */
+.semester-wrap, .product-thumb, .team-thumb, .accordion-item, .filter-wrap_content {
+  background-color: var(--dark-tertiary);
+  border: 1px solid var(--primary-color);
+}
+
+/* Form elements */
+.form-control, .form-select, .semester-select {
+  background-color: var(--dark-tertiary);
+  color: var(--light-color);
+  border: 1px solid var(--primary-color);
+}
+
+.form-control:focus, .form-select:focus {
+  background-color: var(--dark-tertiary);
+  color: var(--light-color);
+  border-color: var(--primary-hover);
+  box-shadow: 0 0 0 0.25rem rgba(255, 215, 0, 0.25);
+}
+
+/* Buttons */
+.btn, button, .custom-btn, .filter-wrap_btn {
+  background-color: var(--primary-color) !important;
+  color: var(--dark-color) !important;
+  border: none !important;
+}
+
+.btn:hover, button:hover, .custom-btn:hover, .filter-wrap_btn:hover {
+  background-color: var(--primary-hover) !important;
+  color: var(--dark-color) !important;
+}
+
+/* Icons */
+.custom-icon, .bi-person, .bi-bag {
+  color: var(--primary-color) !important;
+}
+
+.social-icon-link {
+  background-color: var(--dark-tertiary);
+  color: var(--primary-color) !important;
+}
+
+.social-icon-link:hover {
+  background-color: var(--primary-color);
+  color: var(--dark-color) !important;
+}
+
+/* Slick slider */
+.slick-custom {
+  background-color: var(--dark-tertiary);
+}
+
+/* Preloader */
+.spinner .sk-inner-circle {
+  background-color: var(--primary-color);
+}
+
+/* Modals */
+.modal-content {
+  background-color: var(--dark-tertiary);
+  color: var(--light-color);
+}
+
+/* Accordion */
+.accordion-button {
+  background-color: var(--dark-tertiary);
+  color: var(--light-color);
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: var(--dark-color);
+  color: var(--primary-color);
+}
+
+.accordion-body {
+  background-color: var(--dark-tertiary);
+  color: var(--light-color);
+}
+
+/* Tables */
+table {
+  color: var(--light-color);
+}
+
+/* Links */
+a {
+  color: var(--primary-color);
+}
+
+a:hover {
+  color: var(--primary-hover);
+}
+
+/* Custom elements */
+.custom-link {
+  color: var(--primary-color);
+}
+
+.custom-link:hover {
+  color: var(--primary-hover);
+}
+
+.custom-circle-image {
+  border: 2px solid var(--primary-color);
+}
+
+/* Progress bars */
+.progress {
+  background-color: var(--dark-tertiary);
+}
+
+.progress-bar-primary {
+  background-color: var(--primary-color);
+}
+
+/* Pagination */
+.pagination .page-link {
+  background-color: var(--dark-tertiary);
+  color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.pagination .page-link:hover, 
+.pagination .page-item.active .page-link {
+  background-color: var(--primary-color);
+  color: var(--dark-color);
+  border-color: var(--primary-color);
+}
+
+/* Event cards */
+.event-card {
+  background-color: var(--dark-tertiary);
+  border: 1px solid var(--primary-color);
+}
+
+.event-card:hover {
+  box-shadow: 0 0 15px rgba(255, 215, 0, 0.3);
+}
+
+/* Testimonials */
+.slick-testimonial-caption {
+  background-color: var(--dark-tertiary);
+  color: var(--light-color);
+}
+
+/* Dividers */
+.div-separator {
+  border-color: var(--primary-color);
+}
+
+.div-separator span {
+  background-color: var(--dark-secondary);
+  color: var(--primary-color);
+}
