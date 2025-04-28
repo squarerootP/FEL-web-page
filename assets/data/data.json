@@ -1,0 +1,285 @@
+{
+  "events": [
+    {
+      "image": "./assets/images/events/event_1.jpg",
+      "title": "English Speaking Contest",
+      "date": "2025-03-25",
+      "description": "Annual competition showcasing students' English speaking talents with industry professionals as judges.",
+      "tag": "competition",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_2.jpg",
+      "title": "International Culture Exchange",
+      "date": "2025-04-25",
+      "description": "Cultural exchange program connecting students with international partners to share experiences and perspectives.",
+      "tag": "cultural",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_3.jpg",
+      "title": "Professional Resume Workshop",
+      "date": "2025-05-25",
+      "description": "Interactive workshop teaching students how to create effective resumes for international companies.",
+      "tag": "workshop",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_4.jpg",
+      "title": "Business English Seminar",
+      "date": "2025-06-25",
+      "description": "Seminar focusing on business communication skills with guest speakers from multinational corporations.",
+      "tag": "seminar",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_5.jpg",
+      "title": "Public Speaking Masterclass",
+      "date": "2025-07-25",
+      "description": "Advanced training session on public speaking techniques for academic and professional settings.",
+      "tag": "workshop",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_6.jpg",
+      "title": "English Movie Night",
+      "date": "2025-04-20",
+      "description": "Social gathering featuring award-winning English films followed by guided discussion sessions.",
+      "tag": "social",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_7.jpg",
+      "title": "IELTS Preparation Course",
+      "date": "2025-04-21",
+      "description": "Comprehensive course covering all sections of the IELTS exam with experienced instructors.",
+      "tag": "academic",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_8.jpg",
+      "title": "Global Careers Fair",
+      "date": "2025-04-22",
+      "description": "Networking event connecting students with international employers seeking English-proficient candidates.",
+      "tag": "career",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_9.jpg",
+      "title": "English Debate Tournament",
+      "date": "2025-04-23",
+      "description": "Competitive debate event promoting critical thinking and persuasive speaking in English.",
+      "tag": "competition",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_10.jpg",
+      "title": "Academic Writing Workshop",
+      "date": "2025-04-24",
+      "description": "Practical workshop on writing research papers and academic essays in English.",
+      "tag": "workshop",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_11.jpg",
+      "title": "English for Tech Professionals",
+      "date": "2025-04-25",
+      "description": "Specialized course focusing on technical English vocabulary for IT and engineering students.",
+      "tag": "academic",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_12.jpg",
+      "title": "Intercampus Speaking Competition",
+      "date": "2025-04-20",
+      "description": "University-wide speaking contest with participants from multiple campuses competing for scholarships.",
+      "tag": "competition",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_13.jpg",
+      "title": "English Pronunciation Clinic",
+      "date": "2025-04-21",
+      "description": "Specialized training focusing on accent reduction and proper English pronunciation techniques.",
+      "tag": "workshop",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_14.jpg",
+      "title": "International Guest Lecture Series",
+      "date": "2025-04-22",
+      "description": "Distinguished speakers from global universities sharing insights on current academic trends.",
+      "tag": "seminar",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_15.jpg",
+      "title": "English Literature Club Launch",
+      "date": "2025-04-23",
+      "description": "Inaugural meeting of the English literature discussion group featuring classic and contemporary works.",
+      "tag": "social",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_16.jpg",
+      "title": "Mock Interview Day",
+      "date": "2025-04-24",
+      "description": "Practice interviews with industry professionals providing feedback on English communication skills.",
+      "tag": "career",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_17.jpg",
+      "title": "English Speech Contest",
+      "date": "2025-04-25",
+      "description": "Annual competition showcasing prepared speeches on topics of global importance.",
+      "tag": "competition",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_18.jpg",
+      "title": "English Grammar Masterclass",
+      "date": "2024-04-25",
+      "description": "Intensive workshop covering advanced grammar concepts for academic and professional writing.",
+      "tag": "academic",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_1.jpg",
+      "title": "International Volunteer Program",
+      "date": "2025-04-25",
+      "description": "Community service opportunity teaching English to underprivileged children in local schools.",
+      "tag": "community",
+      "url": "https://www.facebook.com/fptenglishclub"
+    },
+    {
+      "image": "./assets/images/events/event_5.jpg",
+      "title": "English Club Annual Conference",
+      "date": "2025-10-25",
+      "description": "Year-end gathering featuring presentations, awards, and planning for the upcoming academic year.",
+      "tag": "conference",
+      "url": "https://www.facebook.com/fptenglishclub"
+    }
+  ],
+
+  "filterEvents": [
+    {
+      "tag": "social"
+    },
+    {
+      "tag": "academic"
+    },
+    {
+      "tag": "competition"
+    },
+    {
+      "tag": "workshop"
+    },
+    {
+      "tag": "seminar"
+    },
+    {
+      "tag": "cultural"
+    },
+    {
+      "tag": "career"
+    },
+    {
+      "tag": "community"
+    },
+    {
+      "tag": "conference"
+    }
+  ],
+
+  "semesters": [
+    {
+      "semester": "FA24"
+    },
+    {
+      "semester": "SU24"
+    },
+    {
+      "semester": "SP24"
+    },
+    {
+      "semester": "SP25"
+    }
+  ],
+
+  "honorableExecutiveBoardMembers": [
+    {
+      "name": "Emily Nguyen",
+      "role": "President",
+      "description": "Fourth-year English major with exceptional leadership skills. Emily has spearheaded the club's growth by 35% and established three new international partnerships during her tenure.",
+      "image": "./assets/images/people/beautiful-woman-face-portrait-brown-background.jpeg",
+      "semester": "FA24,SU24,SP24,SP25"
+    },
+    {
+      "name": "David Tran",
+      "role": "Vice President",
+      "description": "Computer Science student with advanced English proficiency. David manages club operations and has implemented innovative technologies to streamline event organization and member communication.",
+      "image": "./assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "semester": "FA24,SU24,SP24,SP25"
+    },
+    {
+      "name": "Sophia Le",
+      "role": "Secretary",
+      "description": "Business Administration junior with exceptional organizational skills. Sophia maintains detailed records of club activities and ensures smooth communication between executive board and members.",
+      "image": "./assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "semester": "FA24,SU24,SP24,SP25"
+    },
+    {
+      "name": "Michael Pham",
+      "role": "Treasurer",
+      "description": "Finance major who has successfully managed the club's budget and secured three major sponsorships for international events. Michael's financial planning has allowed for a 25% increase in club activities.",
+      "image": "./assets/images/people/beautiful-woman-face-portrait-brown-background.jpeg",
+      "semester": "FA24,SU24,SP24,SP25A24"
+    },
+    {
+      "name": "Jennifer Hoang",
+      "role": "Events Director",
+      "description": "Public Relations student with extensive event planning experience. Jennifer has organized over 15 successful club events with an average attendance increase of 40% compared to previous years.",
+      "image": "./assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "semester": "FA24,SU24,SP24,SP25"
+    }
+  ],
+
+  "honorableClubMembers": [
+    {
+      "name": "Thomas Ly",
+      "role": "Academic Team Lead",
+      "description": "Education major who has developed and implemented the highly successful IELTS preparation program, helping 20+ students achieve band scores of 7.0 or higher.",
+      "image": "./assets/images/people/beautiful-woman-face-portrait-brown-background.jpeg",
+      "semester": "FA24,SU24,SP24,SP25"
+    },
+    {
+      "name": "Sarah Nguyen",
+      "role": "Cultural Events Coordinator",
+      "description": "International Studies student who has organized cultural exchange programs with universities in three countries, significantly enhancing the club's global presence.",
+      "image": "./assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "semester": "FA24,SU24,SP24,SP25"
+    },
+    {
+      "name": "Kevin Tran",
+      "role": "Marketing Specialist",
+      "description": "Marketing major who redesigned the club's social media strategy, resulting in a 150% increase in online engagement and 75% growth in event attendance.",
+      "image": "./assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "semester": "FA24,SU24,SP24,SP25"
+    },
+    {
+      "name": "Olivia Hoang",
+      "role": "Debate Team Captain",
+      "description": "Political Science student who led the debate team to first place in the National University English Debate Championship, the club's first national victory.",
+      "image": "./assets/images/people/beautiful-woman-face-portrait-brown-background.jpeg",
+      "semester": "FA24,SU24,SP24,SP25"
+    },
+    {
+      "name": "Daniel Bui",
+      "role": "Community Outreach Coordinator",
+      "description": "Sociology major who established the English teaching volunteer program serving underprivileged communities, engaging over 40 student volunteers and reaching 200+ beneficiaries.",
+      "image": "./assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "semester": "FA24,SU24,SP24,SP25"
+    }
+  ]
+}
