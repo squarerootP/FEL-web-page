@@ -487,29 +487,35 @@ h4 span {
   SITE HEADER              
 -----------------------------------------*/
 .site-header {
-  background-color: var(--dark-color);
-  position: relative;
-  overflow: hidden;
-  margin-top: 86px;
+    background-color: var(--dark-color); /* Remove background image */
+    position: relative;
+    overflow: hidden;
+    margin-top: 86px;
+    padding: 0; /* Remove extra padding */
 }
 
-.site-header.section-padding {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 1;
 }
 
-.site-header.section-padding-img {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
+.text-overlay-left {
+    position: absolute;
+    top: 50%;
+    left: 5%; /* Align text to the left */
+    transform: translateY(-50%);
+    text-align: left;
+    z-index: 1;
 }
 
 .header-image {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 50%;
-  height: 100%;
-  object-fit: cover;
+    width: 100%;
+    height: auto;
+    object-fit: cover; /* Ensure the image is displayed entirely */
 }
 
 /*---------------------------------------
@@ -1707,4 +1713,17 @@ button:focus:not(:focus-visible) {
 .site-header-image .container {
   position: relative;
   z-index: 1;
+}
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns */
+    gap: 0; /* No gaps between images */
+    margin-top: 20px;
+}
+
+.image-grid img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
